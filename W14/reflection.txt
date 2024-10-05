@@ -1,0 +1,21 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+I think the moment I first started working with functions I realized just how useful and applicable they are.
+Processing files, converting values and other stuff is much easier with functions. 
+
+2. In your judgment, what is the value of test functions?
+
+Test functions save a lot of time and nerves. They prevent you from running the program 10 times just to find what you did wrong hours later.
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+First of all I would probably run it as is, and if there is a problem, I would manually fix it. But if I can't immediately tell what's wrong with my program,
+I will run it through a debugger and see what I did wrong. Then, once everything runs fine, I will write a test function to confirm everything is correct (math, usually).
+
+I guess to improve my way of troubleshooting, I would have to write test functions along with the program and run it through pytest first, instead of trying to fix it myself.
+
